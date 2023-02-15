@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Site Doces com Amor Atelier" src=".github/preview.png" width="100%">
+  <img alt="Site Doces com Amor Atelier" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
